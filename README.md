@@ -9,9 +9,9 @@ Link do post no Medium:
 # Requirements
 Para poder alterar este arquivo, você precisará de:
 
-Python 3.8
-Jupyter Notebook
-Requests
-BealtifulSoup
-Pandas
-JSON
+* Python 3.8
+* Jupyter Notebook
+* Requests
+* BealtifulSoup
+* Pandas
+* JSON
